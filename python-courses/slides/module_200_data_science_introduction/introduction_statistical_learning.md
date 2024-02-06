@@ -6,7 +6,7 @@ https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html
 
 Table-of-Contents:
 
-## 1 Introduction
+## Chapter 1 Introduction
 
 An Overview of Statistical Learning
 Wage Data
