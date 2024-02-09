@@ -2,6 +2,12 @@
 
 ## Python
 
+### Think Python
+
+- Covers all Python basics
+- Online book
+- https://greenteapress.com/thinkpython/thinkpython.html
+
 ### How to Think Like a Computer Scientist: Interactive Edition
 
 - Covers all Python basics
